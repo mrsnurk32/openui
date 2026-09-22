@@ -1,0 +1,6 @@
+.env
+*.env.local
+backup/
+*.tgz
+*.tar.gz
+.DS_Store
